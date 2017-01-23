@@ -1,0 +1,25 @@
+[1mdiff --git a/bmsce.txt b/bmsce.txt[m
+[1mindex 96e8d70..73c6680 100644[m
+[1m--- a/bmsce.txt[m
+[1m+++ b/bmsce.txt[m
+[36m@@ -1 +1,2 @@[m
+ bmsce is the best college in india[m
+[32m+[m[32mthis is true[m
+[1mdiff --git a/bmscollege.txt b/bmscollege.txt[m
+[1mindex 7e8fc72..b69347f 100644[m
+[1m--- a/bmscollege.txt[m
+[1m+++ b/bmscollege.txt[m
+[36m@@ -1 +1,2 @@[m
+ bmsce has a huge campus[m
+[32m+[m[32masfsafaef[m
+\ No newline at end of file[m
+[1mdiff --git a/bmsit.txt b/bmsit.txt[m
+[1mindex 5f8a319..71a6777 100644[m
+[1m--- a/bmsit.txt[m
+[1m+++ b/bmsit.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-bmsit is located far away from the city[m
+\ No newline at end of file[m
+[32m+[m[32mbmsit is located far away from the city[m
+[32m+[m[32mvery very far[m
+\ No newline at end of file[m
